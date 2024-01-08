@@ -272,28 +272,24 @@ FinTech，是指Finance + Technology，是将经济金融与科技结合的手�
 
 ## ***Reference：***
 
-https://pdf.dfcfw.com/pdf/H3_AP202304201585601855_1.pdf
+国信证券. (2023). 互联网行业专题报告：AI 大模型 (p. 28) [Review of 互联网行业专题报告：AI 大模型]. 国信证券. https://pdf.dfcfw.com/pdf/H3_AP202304201585601855_1.pdf
 
-https://www.huaweicloud.com/zhishi/smart-18606364.html
+华为云. (2023, October 24). 大语言模型能做什么 [Review of 大语言模型能做什么]. 华为云; 华为云. https://www.huaweicloud.com/zhishi/smart-18606364.html
 
-https://m.jrj.com.cn/madapter/bank/2023/09/14072237855252.shtml
+零壹财经. (2023, September 14). 七大指标对比：有的银行业绩塌房，有的“很行” [Review of 七大指标对比：有的银行业绩塌房，有的“很行”]. 金融界; 零壹财经. https://m.jrj.com.cn/madapter/bank/2023/09/14072237855252.shtml
 
-https://github.com/FudanDISC/DISC-FinLLM
+FudanDISC, Yolk, & Chen, L. (2023, October 24). DISC-FinLLM [Review of DISC-FinLLM]. Github; FudanDISC. https://github.com/FudanDISC/DISC-FinLLM?tab=readme-ov-file
 
-https://s3gw.cmbimg.com/lb50.01-cmbweb-prd/cmbir/20230825/b3fe83f7-680e-4bd5-b953-ebd22794ba92.pdf
+招商银行. (2023). 2023年半年度报告 (p. 251) [Review of 2023年半年度报告]. 招商银行. https://s3gw.cmbimg.com/lb50.01-cmbweb-prd/cmbir/20230825/b3fe83f7-680e-4bd5-b953-ebd22794ba92.pdf
 
-https://tongyi.aliyun.com/
+通义. (n.d.). 通义; 通义. https://tongyi.aliyun.com/
 
-https://cloud.tencent.com/developer/article/2326189
+褚杏娟. (2023, September 8). 全面拥抱大模型！腾讯正式开放全自研通用大模型：参数规模超千亿、预训练语料超 2 万亿 tokens [Review of 全面拥抱大模型！腾讯正式开放全自研通用大模型：参数规模超千亿、预训练语料超 2 万亿 tokens]. 腾讯云; Tencent Cloud. https://cloud.tencent.com/developer/article/2326189
 
-https://www.huaweicloud.com/product/pangu.html
+华为云. (n.d.). 盘古大模型 [Review of 盘古大模型]. 华为云; Huaweicloud.com. https://www.huaweicloud.com/product/pangu.html
 
-https://github.com/AI4Finance-Foundation/FinGPT
+Bruce Yang ByFinTech. (2023, June 1). FinGPT: Powering the Future of Finance with 20 Cutting-Edge Applications [Review of FinGPT: Powering the Future of Finance with 20 Cutting-Edge Applications]. Medium. https://medium.datadriveninvestor.com/fingpt-powering-the-future-of-finance-with-20-cutting-edge-applications-7c4d082ad3d8
 
-https://huggingface.co/spaces/FinGPT/FinGPT-Forecaster
+Yang, H., Liu, X., & Wang, C. D. (2023, June 9). FinGPT: Open-Source Financial Large Language Models [Review of FinGPT: Open-Source Financial Large Language Models]. ArXiv; arXiv. https://arxiv.org/abs/2306.06031?source=post_page-----7c4d082ad3d8--------------------------------
 
-https://medium.datadriveninvestor.com/fingpt-powering-the-future-of-finance-with-20-cutting-edge-applications-7c4d082ad3d8
-
-https://arxiv.org/abs/2306.06031?source=post_page-----7c4d082ad3d8--------------------------------
-
-https://www.ourchinastory.com/zh/4614/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%EF%BD%9C%E6%9D%AD%E5%B7%9E%E9%A6%96%E5%89%B5%E3%80%8C%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%85%A6%E3%80%8D%20%E6%9C%89%E4%BD%95%E7%A5%9E%E5%A5%87%E4%B9%8B%E8%99%95%EF%BC%9F
+(2022, August 22). 智慧城市｜杭州首創「城市大腦」 有何神奇之處？ (言嘉庸, Ed.) [Review of 智慧城市｜杭州首創「城市大腦」 有何神奇之處？]. OurChinaStory; 中國文化研究院有限公司. https://www.ourchinastory.com/zh/4614/%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%EF%BD%9C%E6%9D%AD%E5%B7%9E%E9%A6%96%E5%89%B5%E3%80%8C%E5%9F%8E%E5%B8%82%E5%A4%A7%E8%85%A6%E3%80%8D%20%E6%9C%89%E4%BD%95%E7%A5%9E%E5%A5%87%E4%B9%8B%E8%99%95%EF%BC%9F
